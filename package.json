@@ -1,0 +1,10 @@
+{
+  "name": "com.yourname.kcp2k",
+  "version": "1.0.0",
+  "displayName": "KCP2K",
+  "description": "Unity KCP client/server for reliable UDP networking.",
+  "unity": "2019.4",
+  "author": {
+    "name": "vis2k"
+  }
+}
