@@ -1,5 +1,5 @@
 {
-  "name": "com.yourname.kcp2k",
+  "name": "com.yunye.kcp2k",
   "version": "1.0.0",
   "displayName": "KCP2K",
   "description": "Unity KCP client/server for reliable UDP networking.",
